@@ -1,0 +1,1 @@
+Aquí iré subiendo las prácticas de pséudo código y diagramas de flujo de la asignatura contornos de desenvolvemento
